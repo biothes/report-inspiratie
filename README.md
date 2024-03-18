@@ -1,2 +1,2 @@
 # report-inspiratie
-Tutorial op de inspiratiedag van INBO
+Tutorial op de inspiratiedag van INBO.
